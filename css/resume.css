@@ -1,0 +1,96 @@
+@import url(http://fonts.googleapis.com/css?family=Allerta);
+@import url(http://fonts.googleapis.com/css?family=Candal);
+
+body {
+	background-color: #DCDCDC;
+	border-radius: 10%;
+	color: #484848;
+
+}
+
+h1 {
+	font-family: 'Allerta', sans-serif;
+	color: white;
+	text-align: center;
+	background-color: #48D1CC;
+	margin-right: 30%;
+	margin-left: 30%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border-radius: 50%;
+	border: solid white;
+}
+
+
+h3 {
+	text-align: center;
+	font-weight: lighter;
+	margin-left: 2em;
+	margin-right: 2em;
+}
+
+
+#contact {
+	font-size: 80%;
+}
+
+
+h4 {
+	border-bottom: solid #48D1CC;
+	font-family: 'Candal', sans-serif;
+	width: 100%;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+
+
+img {
+	border:solid;
+	border-color: #48D1CC;
+	border-radius: 5%;
+	margin:10px;
+}
+
+img.shark {
+	position:absolute;
+	right:50px;
+	top:25px;
+}
+
+img.RJD {
+	position:absolute;
+	left:50px;
+	top:25px;
+}
+
+
+
+#container {
+	margin:0 auto;
+	width: 960px;
+	background-color: white;
+	padding:2em;
+	
+}
+
+
+
+footer {
+	position: relative;
+	height: 50px;
+	background-color: #48D1CC;
+	font-size: 14px;
+	text-align: center;
+	margin:1em;
+}
+
+footer p {
+	position: relative;
+	padding-top: 1em;
+}
+
+
+
+
+
+

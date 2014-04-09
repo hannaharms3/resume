@@ -1,0 +1,60 @@
+@media print {
+body {	
+		background:transparent;
+		color:black;
+		margin:0;
+		font-family: Times;
+	}
+
+
+img {
+	display:none;
+
+}
+
+#container {
+	padding-top: none;
+}
+
+
+h1 {
+	font-family: Times;
+	color: black;
+	text-align: center;
+	background-color: transparent;
+	margin-right: 30%;
+	margin-left: 30%;
+	padding-top: 1em;
+	padding-bottom: 1em;
+	border-radius: none;
+}
+
+
+h4 {
+	background-color: transparent;
+	font-family: Times;
+	padding:1em 0;
+	margin: 0;
+	border-bottom: 1pt solid black;
+}
+
+footer {
+	display: none;
+}
+
+a {
+	display: none;
+}
+
+nav {
+	display: none;
+}
+
+#intro {
+	border-bottom: solid black;
+	font-size: smaller;
+}
+
+}
+
+

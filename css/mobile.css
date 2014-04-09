@@ -1,0 +1,17 @@
+@media (max-width:320px) {
+
+#container {
+	width:320px;
+}	
+
+
+img {
+	display: none;
+}
+
+h1 {
+	border:none;
+	background-color: transparent;
+	color: #48D1CC;
+	font-size: 18pt;
+}
